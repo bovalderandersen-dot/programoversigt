@@ -223,7 +223,33 @@
   </Event>
   <Event>
     <Date>03/02/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>16:55</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Korsør Aqtive days 2025</Title>
+    <EpisodeTitle>Reportage: Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>17:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
     <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
@@ -236,7 +262,7 @@
   </Event>
   <Event>
     <Date>03/02/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Overtime #6</EpisodeTitle>
@@ -249,7 +275,7 @@
   </Event>
   <Event>
     <Date>03/02/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Soccer</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Sporting - Nacional</EpisodeTitle>
@@ -262,7 +288,7 @@
   </Event>
   <Event>
     <Date>03/02/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Soccer</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Fiorentina - Como</EpisodeTitle>
@@ -275,7 +301,7 @@
   </Event>
   <Event>
     <Date>04/02/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
@@ -535,7 +561,7 @@
   </Event>
   <Event>
     <Date>05/02/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Overtime #6</EpisodeTitle>
@@ -584,6 +610,19 @@
     <StillSceneUrl/>
     <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
     <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>00:25</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals</Title>
+    <EpisodeTitle>1/8-finale: Truls Möregårdh - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>06/02/2026</Date>
@@ -769,7 +808,33 @@
   </Event>
   <Event>
     <Date>07/02/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>07:30</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>07:55</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -782,7 +847,7 @@
   </Event>
   <Event>
     <Date>07/02/2026</Date>
-    <StartTime>10:50</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Soccer</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter - Torino</EpisodeTitle>
@@ -926,19 +991,6 @@
   <Event>
     <Date>08/02/2026</Date>
     <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Reportage: Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
-    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/02/2026</Date>
-    <StartTime>07:20</StartTime>
     <PrimaryGenre>Soccer</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Sporting - Nacional</EpisodeTitle>
@@ -951,7 +1003,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
@@ -964,7 +1016,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>11:45</StartTime>
+    <StartTime>11:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
@@ -977,7 +1029,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
@@ -990,7 +1042,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>14:25</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
@@ -1003,7 +1055,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Hwan Bae - Anders Lind</EpisodeTitle>
@@ -1016,7 +1068,20 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>15:20</StartTime>
+    <StartTime>14:55</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Shunsuke Togami - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Shunsuke Togami i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Shunsuke Togami fra Japan i anden runde af den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind - Sora Matsushima</EpisodeTitle>
@@ -1029,7 +1094,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
@@ -1042,7 +1107,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>16:45</StartTime>
+    <StartTime>17:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Overtime #6</EpisodeTitle>
@@ -1055,7 +1120,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -1217,7 +1282,7 @@
     <EpisodeTitle>Kroatien - Danmark, singlekamp 1</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Premiere</Status>
+    <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
@@ -1373,7 +1438,7 @@
     <EpisodeTitle>Kroatien - Danmark, singlekamp 2</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Premiere</Status>
+    <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
@@ -1529,7 +1594,7 @@
     <EpisodeTitle>Kroatien - Danmark, doublekamp</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Premiere</Status>
+    <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
@@ -1667,6 +1732,19 @@
   <Event>
     <Date>12/02/2026</Date>
     <StartTime>15:25</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -1692,20 +1770,20 @@
   </Event>
   <Event>
     <Date>12/02/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Kroatien - Danmark, singlekamp 3</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Premiere</Status>
+    <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>12/02/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
     <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
@@ -1718,7 +1796,7 @@
   </Event>
   <Event>
     <Date>13/02/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
@@ -2043,7 +2121,20 @@
   </Event>
   <Event>
     <Date>15/02/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>00:45</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Super Grand Prix</Title>
     <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
